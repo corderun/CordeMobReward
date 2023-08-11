@@ -1,0 +1,6 @@
+name: CordeMobReward
+version: '1.0'
+main: com.corderun.cordemobreward.CordeMobReward
+api-version: '1.19'
+commands:
+  cordemobreward: {}
